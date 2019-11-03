@@ -62,11 +62,11 @@
 
                         <li class="active"> <a href="#">Menu</a> </li>
 
-                        <li> <a href="films.html">Offers</a> </li>
+                        <li> <a href="offers.html">Offers</a> </li>
 
                         <li> <a href="#">Membership</a> </li>
 
-                        <li> <a href="rating.html">Locations</a> </li>
+                        <li> <a href="location.html">Locations</a> </li>
 
                         <li> <a href="contact.html">Contacts</a> </li>
 
